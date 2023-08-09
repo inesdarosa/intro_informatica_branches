@@ -1,4 +1,4 @@
-function Hola(camada){
+const Hola = (camada) => {
     console.log("hola" + camada);
 }
 
